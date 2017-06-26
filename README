@@ -1,0 +1,17 @@
+INSTALLATION
+Installation : MATLAB 2012a version or higher
+Set the working directory as the code directory in this folder.
+
+EXECUTION
+EMR, MR Retrieval : Open and run file emrex.m
+
+USE OF DATASET
+Default dataset : Medical image dataset.
+
+
+USER RELEVANCE FEEDBACK
+Enter user relevance feedback on the MATLAB command line as 1 or -1 for every image
+eg. feedback= [1,1,1,1,1,1,1,1,1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1];
+Run the file relevance_feedback to obtain new results
+
+ 
